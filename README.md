@@ -21,7 +21,7 @@ This guide demonstrates how to create a simple web application using Flask, a li
 
 ## Code Explanation
 
-### `app/app.py`
+### `app/__init__.py`
 
 This module contains the Flask application.
 
